@@ -1,4 +1,4 @@
-*/
+/*
 35. Search Insert Position
 Easy
 
@@ -35,7 +35,7 @@ Constraints:
 -104 <= nums[i] <= 104
 nums contains distinct values sorted in ascending order.
 -104 <= target <= 104
-/*
+*/
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
